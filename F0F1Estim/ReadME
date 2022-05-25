@@ -1,3 +1,3 @@
-**Streaming Algorithms**
+#Streaming Algorithms
 
 This script performs an F0 and F1 estimation for an artificially-generated datastream. F0 estimation is performed by three methods of hashing while F1 estimation is doine using the Morris Algorithm. 
